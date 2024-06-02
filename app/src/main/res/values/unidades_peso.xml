@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unidadesPeso">
+        <item>Gramo</item>
+        <item>Libra</item>
+        <item>Kilo</item>
+        <item>Tonelada</item>
+    </string-array>
+
+    <string-array name="unidadesTemperatura">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+</resources>

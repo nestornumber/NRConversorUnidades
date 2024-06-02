@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NR-ConversorUnidades</string>
+    <string name="hint">Ingrese la cantidad</string>
+    <string name="btnTexto">Convertir</string>
+
+    <!-- PESO -->
+    <string name="peso_gramos">Gramos</string>
+    <string name="peso_libras">Libras</string>
+    <string name="peso_kilos">Kilos</string>
+    <string name="peso_toneladas">Toneladas</string>
+
+
+
+    <string name="guion">-</string>
+</resources>
